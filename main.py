@@ -6,6 +6,9 @@ def print_hi(name):
 def foo():
     print('Some changes')
 
+def foo2():
+    print('New changes')
+
 
 if __name__ == '__main__':
     print_hi('PyCharm')
